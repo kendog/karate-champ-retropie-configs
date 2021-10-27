@@ -1,2 +1,2 @@
 # karate-champ-retropie-configs
-RetroPie configurations and customizations for my Karate Champ cabinet.
+RetroPie configurations my custom Karate Champ arcade cabinet.
