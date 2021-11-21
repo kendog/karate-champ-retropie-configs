@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./kchamp.zip</path>
+		<name>Karate Champ (US)</name>
+		<playcount>5</playcount>
+		<lastplayed>20211120T064107</lastplayed>
+	</game>
+	<game>
+		<path>./dkong.zip</path>
+		<name>Donkey Kong (US set 1)</name>
+		<playcount>2</playcount>
+		<lastplayed>20211120T180510</lastplayed>
+	</game>
+	<game>
+		<path>./cloak.zip</path>
+		<name>Cloak &amp; Dagger (rev 5)</name>
+		<playcount>1</playcount>
+		<lastplayed>20211120T205433</lastplayed>
+	</game>
+	<game>
+		<path>./krull.zip</path>
+		<name>Krull</name>
+		<playcount>1</playcount>
+		<lastplayed>20211120T205636</lastplayed>
+	</game>
+	<game>
+		<path>./mars.zip</path>
+		<name>Mars</name>
+		<playcount>2</playcount>
+		<lastplayed>20211120T210039</lastplayed>
+	</game>
+	<game>
+		<path>./minefld.zip</path>
+		<name>Minefield</name>
+		<playcount>1</playcount>
+		<lastplayed>20211120T205736</lastplayed>
+	</game>
+	<game>
+		<path>./smashtv.zip</path>
+		<name>Smash T.V. (rev 8.00)</name>
+		<playcount>1</playcount>
+		<lastplayed>20211120T205812</lastplayed>
+	</game>
+	<game>
+		<path>./bullet.zip</path>
+		<name>Bullet (FD1094 317-0041)</name>
+		<playcount>3</playcount>
+		<lastplayed>20211121T035851</lastplayed>
+	</game>
+	<game>
+		<path>./sheriff.zip</path>
+		<name>Sheriff</name>
+		<playcount>3</playcount>
+		<lastplayed>20211121T035928</lastplayed>
+	</game>
+	<game>
+		<path>./wwestern.zip</path>
+		<name>wwestern</name>
+		<playcount>5</playcount>
+		<lastplayed>20211121T033446</lastplayed>
+	</game>
+	<game>
+		<path>./inferno.zip</path>
+		<name>Inferno (Williams)</name>
+		<playcount>8</playcount>
+		<lastplayed>20211121T045944</lastplayed>
+	</game>
+	<game>
+		<path>./titlef.zip</path>
+		<name>Title Fight (World)</name>
+		<playcount>3</playcount>
+		<lastplayed>20211121T090819</lastplayed>
+	</game>
+	<game>
+		<path>./kchampvs2.zip</path>
+		<name>Karate Champ (US VS version, set 2)</name>
+		<favorite>true</favorite>
+		<playcount>43</playcount>
+		<lastplayed>20211121T110042</lastplayed>
+	</game>
+	<game>
+		<path>./robotron.zip</path>
+		<name>Robotron: 2084 (Solid Blue label)</name>
+		<playcount>4</playcount>
+		<lastplayed>20211121T095053</lastplayed>
+	</game>
+	<game>
+		<path>./totcarn.zip</path>
+		<name>Total Carnage (rev LA1 03/10/92)</name>
+		<playcount>2</playcount>
+		<lastplayed>20211121T094641</lastplayed>
+	</game>
+	<game>
+		<path>./trackfld.zip</path>
+		<name>Track &amp; Field</name>
+		<playcount>3</playcount>
+		<lastplayed>20211121T094308</lastplayed>
+	</game>
+	<game>
+		<path>./trackfldc.zip</path>
+		<name>Track &amp; Field (Centuri)</name>
+		<playcount>3</playcount>
+		<lastplayed>20211121T094356</lastplayed>
+	</game>
+	<game>
+		<path>./pc_tkfld.zip</path>
+		<name>Track &amp; Field (PlayChoice-10)</name>
+		<playcount>3</playcount>
+		<lastplayed>20211121T094603</lastplayed>
+	</game>
+</gameList>
