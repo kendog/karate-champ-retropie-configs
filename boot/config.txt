@@ -66,7 +66,9 @@ max_framebuffers=2
 gpu_mem_256=128
 gpu_mem_512=256
 gpu_mem_1024=256
-overscan_scale=1
+
+# kenny was here - fixes splashscreen black edges
+overscan_scale=0
 
 # kenny was here - rotate display
 display_rotate=3
